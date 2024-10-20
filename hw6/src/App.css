@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: lightgray;
+}
+h2{
+  color: forestgreen;
+}
+span, p{
+  color: red;
+}
